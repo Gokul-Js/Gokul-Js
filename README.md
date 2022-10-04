@@ -10,7 +10,7 @@ Web Developer & Designer
 * 🚀  I'm currently working on [MyAcademy-ReactApp](http://myapp)
 * 🧠  I'm currently learning ReactJs
 * 🤝  I'm open to collaborating on Frontend Development
-* ⚡  TechGeek, UIUX
+* ⚡  TechGeek, graphics
 
 ### Skills
 
