@@ -11,6 +11,7 @@ Web Developer & Designer
 * 🧠  I'm currently learning ReactJs
 * 🤝  I'm open to collaborating on Frontend Development
 * ⚡  TechGeek, graphics
+* ❤   Personal
 
 ### Skills
 
